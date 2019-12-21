@@ -134,7 +134,6 @@
 				E8E82D3B65EC6FC5CF546DB9 /* Pods-spotshakeTests.debug.xcconfig */,
 				F008738CCAC8501F03513844 /* Pods-spotshakeTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -308,6 +307,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
